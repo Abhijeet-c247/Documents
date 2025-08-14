@@ -5,3 +5,6 @@ class Banking:
     
 acc1 = Banking(1000)
 print(acc1.balance)
+
+acc2 = Banking(2000)
+print(acc2.balance)
